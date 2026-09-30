@@ -8,7 +8,7 @@ HTML의 시맨틱 구조, CSS를 이용한 반응형 레이아웃, JavaScript의
 
 | 구분 | URL |
 | --- | --- |
-| 배포 사이트 (GitHub Pages) | https://osh98pro.github.io/my-website/ |
+| 배포 사이트 (GitHub Pages) | https://osh98pro.github.io/my-websit// |
 | GitHub 저장소 | https://osh98pro.github.io/my-websit/ |
 
 ## 🧩 페이지 구성
